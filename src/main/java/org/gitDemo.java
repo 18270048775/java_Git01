@@ -16,5 +16,6 @@ public class gitDemo {
         System.out.println("hello master");
         System.out.println("hello hot-fix2");
         System.out.println("push push push");
+        System.out.println("pull pull pull");
     }
 }
